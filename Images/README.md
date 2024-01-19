@@ -5,3 +5,5 @@ MATLAB代码绘制的图片可大致分为4种类型：
 2. 散点密度图（英文名称为Scatter Density Plot, 相应代码可见Codes中含有heatmap的文件）:主要用于定性体现反射光线与Y轴交点的分布情况
 3. 交点在区间内分布情况统计图（相应代码可见Codes中含有Movement的文件，Movement后面的数字表示区间长度，如无则默认为20）：定量分析在某个区间内光线交点的比例或个数
 4. 其他：例如在Sensitivity Analysis时绘制的图，以及对圆周优化成为抛物线的示意图
+
+由于Figure 1 为Our Approach的模型总体流程图，故Images中的Figure编号需要+1才能与论文中的图片对应
